@@ -1,6 +1,4 @@
 # DescripTest
-echo "# Linux Sample Project
-This project contains a simple shell script that prints system information." > README.md
-
-git add README.md
-git commit -m "Add README"
+git remote add origin https://github.com/keco-stack/linux-sample-project.git
+git branch -M main
+git push -u origin main
